@@ -6,9 +6,9 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
+name: Grant Heinlen
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
+email: heinleng@msu.edu
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -48,9 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Grant and im about to be a new addition to the workforce. I have experiance in many coding languages such as
+  python, c, and c++.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am graduating next spring with degrees in: <mark>Electical Engineering</mark> and <mark>Computer Engineering</mark>
 
 content:
   - title: Projects # Title for the section
